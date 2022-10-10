@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuthenticationdemo", "JWTAuthenticationdemo\JWTAuthenticationdemo.csproj", "{072B190E-E620-4F7A-9FE4-827171239F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072B190E-E620-4F7A-9FE4-827171239F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072B190E-E620-4F7A-9FE4-827171239F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072B190E-E620-4F7A-9FE4-827171239F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072B190E-E620-4F7A-9FE4-827171239F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3931C9AE-AA2E-40A5-B0FC-DA5F73AFC508}
+	EndGlobalSection
+EndGlobal
